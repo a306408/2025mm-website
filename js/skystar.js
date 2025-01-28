@@ -101,7 +101,7 @@ let textone = document.querySelector('.textone').querySelector('h1');
       let textthree = document.querySelector('.textthree').querySelector('h1');
 
       setTimeout(function(){
-        textone.innerHTML = '岁岁平安，年年如意';
+        textone.innerHTML = '岁岁平安 年年如意';
           textone.style.color = '#E8F9FD';
           textone.style.fontFamily = '楷体'
           texttwo.style.color = '#E8F9FD';
@@ -113,7 +113,7 @@ let textone = document.querySelector('.textone').querySelector('h1');
       setTimeout(function(){
         textone.innerHTML = '快乐常伴左右，幸福永驻心间';
         texttwo.innerHTML = '希望萌 天天开心';
-        textthree.innerHTML = '愿友谊地久天长';
+        textthree.innerHTML = '愿岁并谢 与长友兮';
       },112500)
 
 
